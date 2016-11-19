@@ -1,0 +1,1183 @@
+--> Working on Test::Class
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/Test-Class-0.50.tar.gz ... OK
+Configuring Test-Class-0.50 ... OK
+Building Test-Class-0.50 ... OK
+Successfully installed Test-Class-0.50
+--> Working on Test::Roo
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/Test-Roo-1.004.tar.gz ... OK
+Configuring Test-Roo-1.004 ... OK
+==> Found dependencies: strictures, MooX::Types::MooseLike::Base
+--> Working on strictures
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/H/HA/HAARG/strictures-2.000003.tar.gz ... OK
+Configuring strictures-2.000003 ... OK
+==> Found dependencies: multidimensional, indirect, bareword::filehandles
+--> Working on multidimensional
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/I/IL/ILMARI/multidimensional-0.012.tar.gz ... OK
+==> Found dependencies: ExtUtils::Depends, B::Hooks::OP::Check
+--> Working on ExtUtils::Depends
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/X/XA/XAOC/ExtUtils-Depends-0.405.tar.gz ... OK
+Configuring ExtUtils-Depends-0.405 ... OK
+Building ExtUtils-Depends-0.405 ... OK
+Successfully installed ExtUtils-Depends-0.405
+--> Working on B::Hooks::OP::Check
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/Z/ZE/ZEFRAM/B-Hooks-OP-Check-0.19.tar.gz ... OK
+Configuring B-Hooks-OP-Check-0.19 ... OK
+Building B-Hooks-OP-Check-0.19 ... OK
+Successfully installed B-Hooks-OP-Check-0.19
+Configuring multidimensional-0.012 ... OK
+==> Found dependencies: Lexical::SealRequireHints
+--> Working on Lexical::SealRequireHints
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/Z/ZE/ZEFRAM/Lexical-SealRequireHints-0.010.tar.gz ... OK
+Configuring Lexical-SealRequireHints-0.010 ... OK
+Building Lexical-SealRequireHints-0.010 ... OK
+Successfully installed Lexical-SealRequireHints-0.010
+Building multidimensional-0.012 ... OK
+Successfully installed multidimensional-0.012
+--> Working on indirect
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/V/VP/VPIT/indirect-0.37.tar.gz ... OK
+Configuring indirect-0.37 ... OK
+Building indirect-0.37 ... OK
+Successfully installed indirect-0.37
+--> Working on bareword::filehandles
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/I/IL/ILMARI/bareword-filehandles-0.004.tar.gz ... OK
+Configuring bareword-filehandles-0.004 ... OK
+Building bareword-filehandles-0.004 ... OK
+Successfully installed bareword-filehandles-0.004
+Building strictures-2.000003 ... OK
+Successfully installed strictures-2.000003
+--> Working on MooX::Types::MooseLike::Base
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MA/MATEU/MooX-Types-MooseLike-0.29.tar.gz ... OK
+Configuring MooX-Types-MooseLike-0.29 ... OK
+Building MooX-Types-MooseLike-0.29 ... OK
+Successfully installed MooX-Types-MooseLike-0.29
+Building Test-Roo-1.004 ... OK
+Successfully installed Test-Roo-1.004
+--> Working on Test::Taint
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/P/PE/PETDANCE/Test-Taint-1.06.tar.gz ... OK
+Configuring Test-Taint-1.06 ... OK
+Building Test-Taint-1.06 ... OK
+Successfully installed Test-Taint-1.06
+Test::Without::Module is up to date. (0.18)
+11 distributions installed
+--> Working on MooX::Options
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/C/CE/CELOGEEK/MooX-Options-4.023.tar.gz ... OK
+Configuring MooX-Options-4.023 ... OK
+==> Found dependencies: Term::Size::Any, Data::Record, Locale::TextDomain, JSON::MaybeXS, Text::LineFold, Getopt::Long, File::ShareDir, MooX::ConfigFromFile
+--> Working on Term::Size::Any
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/F/FE/FERREIRA/Term-Size-Any-0.002.tar.gz ... OK
+Configuring Term-Size-Any-0.002 ... OK
+==> Found dependencies: Term::Size::Perl, Devel::Hide
+--> Working on Term::Size::Perl
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/F/FE/FERREIRA/Term-Size-Perl-0.029.tar.gz ... OK
+Configuring Term-Size-Perl-0.029 ... OK
+Building Term-Size-Perl-0.029 ... OK
+Successfully installed Term-Size-Perl-0.029
+--> Working on Devel::Hide
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/F/FE/FERREIRA/Devel-Hide-0.0009.tar.gz ... OK
+Configuring Devel-Hide-0.0009 ... OK
+Building Devel-Hide-0.0009 ... OK
+Successfully installed Devel-Hide-0.0009
+Building Term-Size-Any-0.002 ... OK
+Successfully installed Term-Size-Any-0.002
+--> Working on Data::Record
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/O/OV/OVID/Data-Record-0.02.tar.gz ... OK
+Configuring Data-Record-0.02 ... OK
+Building Data-Record-0.02 ... OK
+Successfully installed Data-Record-0.02
+--> Working on Locale::TextDomain
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/G/GU/GUIDO/libintl-perl-1.26.tar.gz ... OK
+Configuring libintl-perl-1.26 ... OK
+Building libintl-perl-1.26 ... OK
+Successfully installed libintl-perl-1.26
+--> Working on JSON::MaybeXS
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/JSON-MaybeXS-1.003008.tar.gz ... OK
+Configuring JSON-MaybeXS-1.003008 ... OK
+Building JSON-MaybeXS-1.003008 ... OK
+Successfully installed JSON-MaybeXS-1.003008
+--> Working on Text::LineFold
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/N/NE/NEZUMI/Unicode-LineBreak-2016.003.tar.gz ... OK
+Configuring Unicode-LineBreak-2016.003 ... OK
+==> Found dependencies: MIME::Charset
+--> Working on MIME::Charset
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/N/NE/NEZUMI/MIME-Charset-1.012.tar.gz ... OK
+Configuring MIME-Charset-1.012 ... OK
+Building MIME-Charset-1.012 ... OK
+Successfully installed MIME-Charset-1.012
+Building Unicode-LineBreak-2016.003 ... OK
+Successfully installed Unicode-LineBreak-2016.003
+--> Working on Getopt::Long
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JV/JV/Getopt-Long-2.49.1.tar.gz ... OK
+Configuring Getopt-Long-v2.49.1 ... OK
+Building Getopt-Long-v2.49.1 ... OK
+Successfully installed Getopt-Long-v2.49.1 (upgraded from 2.39)
+--> Working on File::ShareDir
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RE/REHSACK/File-ShareDir-1.102.tar.gz ... OK
+==> Found dependencies: File::ShareDir::Install
+--> Working on File::ShareDir::Install
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/File-ShareDir-Install-0.11.tar.gz ... OK
+Configuring File-ShareDir-Install-0.11 ... OK
+Building File-ShareDir-Install-0.11 ... OK
+Successfully installed File-ShareDir-Install-0.11
+Configuring File-ShareDir-1.102 ... OK
+==> Found dependencies: Class::Inspector
+--> Working on Class::Inspector
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/A/AD/ADAMK/Class-Inspector-1.28.tar.gz ... OK
+Configuring Class-Inspector-1.28 ... OK
+Building Class-Inspector-1.28 ... OK
+Successfully installed Class-Inspector-1.28
+Building File-ShareDir-1.102 ... OK
+Successfully installed File-ShareDir-1.102
+--> Working on MooX::ConfigFromFile
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RE/REHSACK/MooX-ConfigFromFile-0.007.tar.gz ... OK
+Configuring MooX-ConfigFromFile-0.007 ... OK
+==> Found dependencies: MooX::File::ConfigDir, Config::Any
+--> Working on MooX::File::ConfigDir
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RE/REHSACK/MooX-File-ConfigDir-0.005.tar.gz ... OK
+Configuring MooX-File-ConfigDir-0.005 ... OK
+==> Found dependencies: File::ConfigDir
+--> Working on File::ConfigDir
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RE/REHSACK/File-ConfigDir-0.017.tar.gz ... OK
+Configuring File-ConfigDir-0.017 ... OK
+Building File-ConfigDir-0.017 ... OK
+Successfully installed File-ConfigDir-0.017
+Building MooX-File-ConfigDir-0.005 ... OK
+Successfully installed MooX-File-ConfigDir-0.005
+--> Working on Config::Any
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/B/BR/BRICAS/Config-Any-0.27.tar.gz ... OK
+Configuring Config-Any-0.27 ... OK
+==> Found dependencies: Module::Pluggable::Object
+--> Working on Module::Pluggable::Object
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/S/SI/SIMONW/Module-Pluggable-5.2.tar.gz ... OK
+Configuring Module-Pluggable-5.2 ... OK
+Building Module-Pluggable-5.2 ... OK
+Successfully installed Module-Pluggable-5.2 (upgraded from 4.6)
+Building Config-Any-0.27 ... OK
+Successfully installed Config-Any-0.27
+Building MooX-ConfigFromFile-0.007 ... OK
+Successfully installed MooX-ConfigFromFile-0.007
+Building MooX-Options-4.023 ... OK
+Successfully installed MooX-Options-4.023
+--> Working on MooseX::Storage
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/MooseX-Storage-0.52.tar.gz ... OK
+Configuring MooseX-Storage-0.52 ... OK
+Building MooseX-Storage-0.52 ... OK
+Successfully installed MooseX-Storage-0.52
+--> Working on MooseX::AttributeHelpers
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/MooseX-AttributeHelpers-0.25.tar.gz ... OK
+Configuring MooseX-AttributeHelpers-0.25 ... OK
+Building MooseX-AttributeHelpers-0.25 ... OK
+Successfully installed MooseX-AttributeHelpers-0.25
+20 distributions installed
+--> Working on App::pmuninstall
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/X/XA/XAICRON/App-pmuninstall-0.30.tar.gz ... OK
+Configuring App-pmuninstall-0.30 ... OK
+==> Found dependencies: CPAN::DistnameInfo
+--> Working on CPAN::DistnameInfo
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/G/GB/GBARR/CPAN-DistnameInfo-0.12.tar.gz ... OK
+Configuring CPAN-DistnameInfo-0.12 ... OK
+Building CPAN-DistnameInfo-0.12 ... OK
+Successfully installed CPAN-DistnameInfo-0.12
+Building App-pmuninstall-0.30 ... OK
+Successfully installed App-pmuninstall-0.30
+--> Working on CPAN::Mini
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/CPAN-Mini-1.111016.tar.gz ... OK
+Configuring CPAN-Mini-1.111016 ... OK
+Building CPAN-Mini-1.111016 ... OK
+Successfully installed CPAN-Mini-1.111016
+--> Working on CPANDB
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/A/AD/ADAMK/CPANDB-0.18.tar.gz ... OK
+Configuring CPANDB-0.18 ... OK
+==> Found dependencies: ORLite, ORLite::Mirror
+--> Working on ORLite
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/A/AD/ADAMK/ORLite-1.98.tar.gz ... OK
+Configuring ORLite-1.98 ... OK
+==> Found dependencies: DBD::SQLite, Test::Script
+--> Working on DBD::SQLite
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/I/IS/ISHIGAKI/DBD-SQLite-1.50.tar.gz ... OK
+Configuring DBD-SQLite-1.50 ... OK
+Building DBD-SQLite-1.50 ... OK
+Successfully installed DBD-SQLite-1.50
+--> Working on Test::Script
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/P/PL/PLICEASE/Test-Script-1.14.tar.gz ... OK
+Configuring Test-Script-1.14 ... OK
+==> Found dependencies: Probe::Perl, IPC::Run3
+--> Working on Probe::Perl
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/K/KW/KWILLIAMS/Probe-Perl-0.03.tar.gz ... OK
+Configuring Probe-Perl-0.03 ... OK
+Building Probe-Perl-0.03 ... OK
+Successfully installed Probe-Perl-0.03
+--> Working on IPC::Run3
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/IPC-Run3-0.048.tar.gz ... OK
+Configuring IPC-Run3-0.048 ... OK
+Building IPC-Run3-0.048 ... OK
+Successfully installed IPC-Run3-0.048
+Building Test-Script-1.14 ... OK
+Successfully installed Test-Script-1.14
+Building ORLite-1.98 ... OK
+Successfully installed ORLite-1.98
+--> Working on ORLite::Mirror
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/A/AD/ADAMK/ORLite-Mirror-1.24.tar.gz ... OK
+Configuring ORLite-Mirror-1.24 ... OK
+Building ORLite-Mirror-1.24 ... OK
+Successfully installed ORLite-Mirror-1.24
+Building CPANDB-0.18 ... OK
+Successfully installed CPANDB-0.18
+--> Working on Dist::Milla
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MIYAGAWA/Dist-Milla-v1.0.16.tar.gz ... OK
+Configuring Dist-Milla-v1.0.16 ... OK
+==> Found dependencies: Dist::Zilla::Plugin::CopyFilesFromRelease, Dist::Zilla::Plugin::CheckChangesHasContent, Dist::Zilla::Plugin::CopyFilesFromBuild, Dist::Zilla::Plugin::VersionFromModule, Dist::Zilla::Plugin::ExecDir, Dist::Zilla::Plugin::Git::GatherDir, Dist::Zilla::Plugin::MetaJSON, Dist::Zilla::Plugin::NextRelease, Dist::Zilla::Plugin::ReadmeFromPod, Dist::Zilla::Plugin::MetaYAML, Dist::Zilla::Role::PluginBundle::Config::Slicer, Module::CPANfile, Dist::Zilla::Plugin::ReadmeAnyFromPod, Dist::Zilla::Plugin::Prereqs::FromCPANfile, Dist::Zilla::Plugin::TestRelease, Dist::Zilla::Plugin::ReversionOnRelease, Dist::Zilla::Plugin::ConfirmRelease, Dist::Zilla::Plugin::UploadToCPAN, Dist::Zilla::Plugin::License, Dist::Zilla::Plugin::ShareDir, Dist::Zilla::Plugin::Git::Contributors, Dist::Zilla::Plugin::Manifest, Dist::Zilla, Dist::Zilla::Plugin::ExtraTests, Dist::Zilla::Plugin::LicenseFromModule, Dist::Zilla::Plugin::GithubMeta, Dist::Zilla::Plugin::PodSyntaxTests, Dist::Zilla::Plugin::ModuleBuildTiny, Dist::Zilla::Plugin::NameFromDirectory, Dist::Zilla::Role::PluginBundle::PluginRemover, Dist::Zilla::Plugin::Test::Compile, Dist::Zilla::Plugin::Git::Init, Dist::Zilla::PluginBundle::Git
+--> Working on Dist::Zilla::Plugin::CopyFilesFromRelease
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/Dist-Zilla-Plugin-CopyFilesFromRelease-0.006.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-CopyFilesFromRelease-0.006 ... OK
+==> Found dependencies: Dist::Zilla::Role::AfterRelease
+--> Working on Dist::Zilla::Role::AfterRelease
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Dist-Zilla-6.008.tar.gz ... OK
+Configuring Dist-Zilla-6.008 ... OK
+==> Found dependencies: Text::Template, File::pushd, MooseX::Types::Perl, Perl::PrereqScanner, Config::MVP::Reader, MooseX::SetOnce, Software::License, Term::ReadKey, Term::UI, Term::Encoding, Config::INI::Reader, Config::MVP::Assembler::WithBundles, MooseX::Types, Log::Dispatchouli, MooseX::Role::Parameterized, Sub::Exporter::ForMethods, Config::MVP::Assembler, MooseX::Types::Moose, Config::MVP::Section, YAML::Tiny, PPI::Document, Config::MVP::Reader::INI, ExtUtils::Manifest, String::Formatter, CPAN::Uploader, MooseX::LazyRequire, Pod::Eventual, Software::LicenseUtils, Mixin::Linewise::Readers, Config::MVP::Reader::Findable::ByExtension, Data::Section, Config::MVP::Reader::Finder
+--> Working on Text::Template
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MJ/MJD/Text-Template-1.46.tar.gz ... OK
+Configuring Text-Template-1.46 ... OK
+Building Text-Template-1.46 ... OK
+Successfully installed Text-Template-1.46
+--> Working on File::pushd
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/File-pushd-1.014.tar.gz ... OK
+Configuring File-pushd-1.014 ... OK
+Building File-pushd-1.014 ... OK
+Successfully installed File-pushd-1.014
+--> Working on MooseX::Types::Perl
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/MooseX-Types-Perl-0.101343.tar.gz ... OK
+Configuring MooseX-Types-Perl-0.101343 ... OK
+==> Found dependencies: MooseX::Types::Moose, MooseX::Types
+--> Working on MooseX::Types::Moose
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/MooseX-Types-0.46.tar.gz ... OK
+Configuring MooseX-Types-0.46 ... OK
+==> Found dependencies: Sub::Exporter::ForMethods, Carp::Clan
+--> Working on Sub::Exporter::ForMethods
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Sub-Exporter-ForMethods-0.100052.tar.gz ... OK
+Configuring Sub-Exporter-ForMethods-0.100052 ... OK
+Building Sub-Exporter-ForMethods-0.100052 ... OK
+Successfully installed Sub-Exporter-ForMethods-0.100052
+--> Working on Carp::Clan
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/K/KE/KENTNL/Carp-Clan-6.06.tar.gz ... OK
+Configuring Carp-Clan-6.06 ... OK
+Building Carp-Clan-6.06 ... OK
+Successfully installed Carp-Clan-6.06
+Building MooseX-Types-0.46 ... OK
+Successfully installed MooseX-Types-0.46
+Building MooseX-Types-Perl-0.101343 ... OK
+Successfully installed MooseX-Types-Perl-0.101343
+--> Working on Perl::PrereqScanner
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Perl-PrereqScanner-1.023.tar.gz ... OK
+Configuring Perl-PrereqScanner-1.023 ... OK
+==> Found dependencies: PPI, CPAN::Meta::Requirements, Module::Path
+--> Working on PPI
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MITHALDU/PPI-1.220.tar.gz ... OK
+Configuring PPI-1.220 ... OK
+==> Found dependencies: Test::Object, Test::SubCalls, Task::Weaken
+--> Working on Test::Object
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/A/AD/ADAMK/Test-Object-0.07.tar.gz ... OK
+Configuring Test-Object-0.07 ... OK
+Building Test-Object-0.07 ... OK
+Successfully installed Test-Object-0.07
+--> Working on Test::SubCalls
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/A/AD/ADAMK/Test-SubCalls-1.09.tar.gz ... OK
+Configuring Test-SubCalls-1.09 ... OK
+==> Found dependencies: Hook::LexWrap
+--> Working on Hook::LexWrap
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/Hook-LexWrap-0.25.tar.gz ... OK
+Configuring Hook-LexWrap-0.25 ... OK
+Building Hook-LexWrap-0.25 ... OK
+Successfully installed Hook-LexWrap-0.25
+Building Test-SubCalls-1.09 ... OK
+Successfully installed Test-SubCalls-1.09
+--> Working on Task::Weaken
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/A/AD/ADAMK/Task-Weaken-1.04.tar.gz ... OK
+Configuring Task-Weaken-1.04 ... OK
+Building Task-Weaken-1.04 ... OK
+Successfully installed Task-Weaken-1.04
+Building PPI-1.220 ... OK
+Successfully installed PPI-1.220
+--> Working on CPAN::Meta::Requirements
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/CPAN-Meta-Requirements-2.140.tar.gz ... OK
+Configuring CPAN-Meta-Requirements-2.140 ... OK
+Building CPAN-Meta-Requirements-2.140 ... OK
+Successfully installed CPAN-Meta-Requirements-2.140 (upgraded from 2.122)
+--> Working on Module::Path
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/N/NE/NEILB/Module-Path-0.19.tar.gz ... OK
+Configuring Module-Path-0.19 ... OK
+Building Module-Path-0.19 ... OK
+Successfully installed Module-Path-0.19
+Building Perl-PrereqScanner-1.023 ... OK
+Successfully installed Perl-PrereqScanner-1.023
+--> Working on Config::MVP::Reader
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Config-MVP-2.200010.tar.gz ... OK
+Configuring Config-MVP-2.200010 ... OK
+==> Found dependencies: Role::Identifiable::HasIdent, Throwable, StackTrace::Auto, Role::HasMessage, MooseX::OneArgNew
+--> Working on Role::Identifiable::HasIdent
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Role-Identifiable-0.007.tar.gz ... OK
+Configuring Role-Identifiable-0.007 ... OK
+Building Role-Identifiable-0.007 ... OK
+Successfully installed Role-Identifiable-0.007
+--> Working on Throwable
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Throwable-0.200013.tar.gz ... OK
+Configuring Throwable-0.200013 ... OK
+Building Throwable-0.200013 ... OK
+Successfully installed Throwable-0.200013
+--> Working on Role::HasMessage
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Role-HasMessage-0.006.tar.gz ... OK
+Configuring Role-HasMessage-0.006 ... OK
+==> Found dependencies: String::Errf, MooseX::Role::Parameterized
+--> Working on String::Errf
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/String-Errf-0.008.tar.gz ... OK
+Configuring String-Errf-0.008 ... OK
+==> Found dependencies: String::Formatter
+--> Working on String::Formatter
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/String-Formatter-0.102084.tar.gz ... OK
+Configuring String-Formatter-0.102084 ... OK
+Building String-Formatter-0.102084 ... OK
+Successfully installed String-Formatter-0.102084
+Building String-Errf-0.008 ... OK
+Successfully installed String-Errf-0.008
+--> Working on MooseX::Role::Parameterized
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/MooseX-Role-Parameterized-1.09.tar.gz ... OK
+Configuring MooseX-Role-Parameterized-1.09 ... OK
+Building MooseX-Role-Parameterized-1.09 ... OK
+Successfully installed MooseX-Role-Parameterized-1.09
+Building Role-HasMessage-0.006 ... OK
+Successfully installed Role-HasMessage-0.006
+--> Working on MooseX::OneArgNew
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/MooseX-OneArgNew-0.005.tar.gz ... OK
+Configuring MooseX-OneArgNew-0.005 ... OK
+Building MooseX-OneArgNew-0.005 ... OK
+Successfully installed MooseX-OneArgNew-0.005
+Building Config-MVP-2.200010 ... OK
+Successfully installed Config-MVP-2.200010
+--> Working on MooseX::SetOnce
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/MooseX-SetOnce-0.200002.tar.gz ... OK
+Configuring MooseX-SetOnce-0.200002 ... OK
+Building MooseX-SetOnce-0.200002 ... OK
+Successfully installed MooseX-SetOnce-0.200002
+--> Working on Software::License
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Software-License-0.103012.tar.gz ... OK
+Configuring Software-License-0.103012 ... OK
+==> Found dependencies: Data::Section
+--> Working on Data::Section
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Data-Section-0.200006.tar.gz ... OK
+Configuring Data-Section-0.200006 ... OK
+Building Data-Section-0.200006 ... OK
+Successfully installed Data-Section-0.200006
+Building Software-License-0.103012 ... OK
+Successfully installed Software-License-0.103012
+--> Working on Term::ReadKey
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JS/JSTOWE/TermReadKey-2.37.tar.gz ... OK
+Configuring TermReadKey-2.37 ... OK
+Building TermReadKey-2.37 ... OK
+Successfully installed TermReadKey-2.37
+--> Working on Term::UI
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/B/BI/BINGOS/Term-UI-0.46.tar.gz ... OK
+Configuring Term-UI-0.46 ... OK
+==> Found dependencies: Log::Message::Simple
+--> Working on Log::Message::Simple
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/B/BI/BINGOS/Log-Message-Simple-0.10.tar.gz ... OK
+Configuring Log-Message-Simple-0.10 ... OK
+==> Found dependencies: Log::Message
+--> Working on Log::Message
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/B/BI/BINGOS/Log-Message-0.08.tar.gz ... OK
+Configuring Log-Message-0.08 ... OK
+Building Log-Message-0.08 ... OK
+Successfully installed Log-Message-0.08 (upgraded from 0.06)
+Building Log-Message-Simple-0.10 ... OK
+Successfully reinstalled Log-Message-Simple-0.10
+Building Term-UI-0.46 ... OK
+Successfully installed Term-UI-0.46 (upgraded from 0.34)
+--> Working on Term::Encoding
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MIYAGAWA/Term-Encoding-0.02.tar.gz ... OK
+Configuring Term-Encoding-0.02 ... OK
+Building Term-Encoding-0.02 ... OK
+Successfully installed Term-Encoding-0.02
+--> Working on Config::INI::Reader
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Config-INI-0.025.tar.gz ... OK
+Configuring Config-INI-0.025 ... OK
+==> Found dependencies: Mixin::Linewise::Readers, Mixin::Linewise::Writers
+--> Working on Mixin::Linewise::Readers
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Mixin-Linewise-0.108.tar.gz ... OK
+Configuring Mixin-Linewise-0.108 ... OK
+==> Found dependencies: PerlIO::utf8_strict
+--> Working on PerlIO::utf8_strict
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/L/LE/LEONT/PerlIO-utf8_strict-0.006.tar.gz ... OK
+Configuring PerlIO-utf8_strict-0.006 ... OK
+Building PerlIO-utf8_strict-0.006 ... OK
+Successfully installed PerlIO-utf8_strict-0.006
+Building Mixin-Linewise-0.108 ... OK
+Successfully installed Mixin-Linewise-0.108
+Building Config-INI-0.025 ... OK
+Successfully installed Config-INI-0.025
+--> Working on Log::Dispatchouli
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Log-Dispatchouli-2.014.tar.gz ... OK
+Configuring Log-Dispatchouli-2.014 ... OK
+==> Found dependencies: Sub::Exporter::GlobExporter, Log::Dispatch::Screen, Log::Dispatch::File, String::Flogger, Log::Dispatch::Syslog, Log::Dispatch, Log::Dispatch::Array
+--> Working on Sub::Exporter::GlobExporter
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Sub-Exporter-GlobExporter-0.005.tar.gz ... OK
+Configuring Sub-Exporter-GlobExporter-0.005 ... OK
+Building Sub-Exporter-GlobExporter-0.005 ... OK
+Successfully installed Sub-Exporter-GlobExporter-0.005
+--> Working on Log::Dispatch::Screen
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DR/DROLSKY/Log-Dispatch-2.57.tar.gz ... OK
+Configuring Log-Dispatch-2.57 ... OK
+Building Log-Dispatch-2.57 ... OK
+Successfully installed Log-Dispatch-2.57
+--> Working on String::Flogger
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/String-Flogger-1.101245.tar.gz ... OK
+Configuring String-Flogger-1.101245 ... OK
+Building String-Flogger-1.101245 ... OK
+Successfully installed String-Flogger-1.101245
+--> Working on Log::Dispatch::Array
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Log-Dispatch-Array-1.003.tar.gz ... OK
+Configuring Log-Dispatch-Array-1.003 ... OK
+Building Log-Dispatch-Array-1.003 ... OK
+Successfully installed Log-Dispatch-Array-1.003
+Building Log-Dispatchouli-2.014 ... OK
+Successfully installed Log-Dispatchouli-2.014
+--> Working on YAML::Tiny
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/YAML-Tiny-1.69.tar.gz ... OK
+Configuring YAML-Tiny-1.69 ... OK
+Building YAML-Tiny-1.69 ... OK
+Successfully installed YAML-Tiny-1.69
+--> Working on Config::MVP::Reader::INI
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Config-MVP-Reader-INI-2.101463.tar.gz ... OK
+Configuring Config-MVP-Reader-INI-2.101463 ... OK
+Building Config-MVP-Reader-INI-2.101463 ... OK
+Successfully installed Config-MVP-Reader-INI-2.101463
+--> Working on ExtUtils::Manifest
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/ExtUtils-Manifest-1.70.tar.gz ... OK
+Configuring ExtUtils-Manifest-1.70 ... OK
+Building ExtUtils-Manifest-1.70 ... OK
+Successfully installed ExtUtils-Manifest-1.70 (upgraded from 1.63)
+--> Working on CPAN::Uploader
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/CPAN-Uploader-0.103013.tar.gz ... OK
+Configuring CPAN-Uploader-0.103013 ... OK
+==> Found dependencies: LWP::Protocol::https
+--> Working on LWP::Protocol::https
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MS/MSCHILLI/LWP-Protocol-https-6.06.tar.gz ... OK
+Configuring LWP-Protocol-https-6.06 ... OK
+==> Found dependencies: IO::Socket::SSL
+--> Working on IO::Socket::SSL
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/S/SU/SULLR/IO-Socket-SSL-2.038.tar.gz ... OK
+Configuring IO-Socket-SSL-2.038 ... OK
+==> Found dependencies: Net::SSLeay
+--> Working on Net::SSLeay
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MIKEM/Net-SSLeay-1.78.tar.gz ... OK
+Configuring Net-SSLeay-1.78 ... OK
+Building Net-SSLeay-1.78 ... FAIL
+--> Working on MooseX::LazyRequire
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/MooseX-LazyRequire-0.11.tar.gz ... OK
+Configuring MooseX-LazyRequire-0.11 ... OK
+==> Found dependencies: aliased
+--> Working on aliased
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/aliased-0.34.tar.gz ... OK
+Configuring aliased-0.34 ... OK
+Building aliased-0.34 ... OK
+Successfully installed aliased-0.34
+Building MooseX-LazyRequire-0.11 ... OK
+Successfully installed MooseX-LazyRequire-0.11
+--> Working on Pod::Eventual
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJBS/Pod-Eventual-0.094001.tar.gz ... OK
+Configuring Pod-Eventual-0.094001 ... OK
+Building Pod-Eventual-0.094001 ... OK
+Successfully installed Pod-Eventual-0.094001
+--> Working on Dist::Zilla::Plugin::CheckChangesHasContent
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/Dist-Zilla-Plugin-CheckChangesHasContent-0.010.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-CheckChangesHasContent-0.010 ... OK
+==> Found dependencies: Dist::Zilla::File::InMemory, Dist::Zilla, Dist::Zilla::Role::TextTemplate, Dist::Zilla::Role::FileGatherer, Dist::Zilla::Role::BeforeRelease, Dist::Zilla::Role::FileMunger
+--> Working on Dist::Zilla::Plugin::CopyFilesFromBuild
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RT/RTHOMPSON/Dist-Zilla-Plugin-CopyFilesFromBuild-0.161350.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-CopyFilesFromBuild-0.161350 ... OK
+==> Found dependencies: MooseX::Has::Sugar, Dist::Zilla::Role::AfterBuild
+--> Working on MooseX::Has::Sugar
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/K/KE/KENTNL/MooseX-Has-Sugar-1.000004.tar.gz ... OK
+Configuring MooseX-Has-Sugar-1.000004 ... OK
+Building MooseX-Has-Sugar-1.000004 ... OK
+Successfully installed MooseX-Has-Sugar-1.000004
+--> Working on Dist::Zilla::Plugin::VersionFromModule
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/C/CJ/CJM/Dist-Zilla-Plugins-CJM-4.27.tar.gz ... OK
+Configuring Dist-Zilla-Plugins-CJM-4.27 ... OK
+==> Found dependencies: Dist::Zilla::Plugin::InlineFiles, Dist::Zilla::Plugin::MakeMaker, Dist::Zilla
+--> Working on Dist::Zilla::Plugin::Git::GatherDir
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/Dist-Zilla-Plugin-Git-2.039.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-Git-2.039 ... OK
+==> Found dependencies: Dist::Zilla::Role::VersionProvider, IPC::System::Simple, MooseX::Types::Path::Tiny, Dist::Zilla::Role::FilePruner, Dist::Zilla::Plugin::GatherDir, Dist::Zilla::Role::AfterRelease, Dist::Zilla::Role::BeforeRelease, Git::Wrapper, Dist::Zilla::Role::GitConfig, Dist::Zilla, Dist::Zilla::Role::PluginBundle, Version::Next, File::chdir, Dist::Zilla::Role::AfterBuild, Dist::Zilla::Role::AfterMint
+--> Working on IPC::System::Simple
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/P/PJ/PJF/IPC-System-Simple-1.25.tar.gz ... OK
+Configuring IPC-System-Simple-1.25 ... OK
+Building IPC-System-Simple-1.25 ... OK
+Successfully installed IPC-System-Simple-1.25
+--> Working on MooseX::Types::Path::Tiny
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/MooseX-Types-Path-Tiny-0.011.tar.gz ... OK
+Configuring MooseX-Types-Path-Tiny-0.011 ... OK
+==> Found dependencies: MooseX::Types::Stringlike
+--> Working on MooseX::Types::Stringlike
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/MooseX-Types-Stringlike-0.003.tar.gz ... OK
+Configuring MooseX-Types-Stringlike-0.003 ... OK
+Building MooseX-Types-Stringlike-0.003 ... OK
+Successfully installed MooseX-Types-Stringlike-0.003
+Building MooseX-Types-Path-Tiny-0.011 ... OK
+Successfully installed MooseX-Types-Path-Tiny-0.011
+--> Working on Git::Wrapper
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/G/GE/GENEHACK/Git-Wrapper-0.047.tar.gz ... OK
+==> Found dependencies: Devel::CheckBin
+--> Working on Devel::CheckBin
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/T/TO/TOKUHIROM/Devel-CheckBin-0.04.tar.gz ... OK
+Configuring Devel-CheckBin-0.04 ... OK
+Building Devel-CheckBin-0.04 ... OK
+Successfully installed Devel-CheckBin-0.04
+Configuring Git-Wrapper-0.047 ... OK
+==> Found dependencies: Sort::Versions, File::chdir
+--> Working on Sort::Versions
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/N/NE/NEILB/Sort-Versions-1.62.tar.gz ... OK
+Configuring Sort-Versions-1.62 ... OK
+Building Sort-Versions-1.62 ... OK
+Successfully installed Sort-Versions-1.62
+--> Working on File::chdir
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/File-chdir-0.1010.tar.gz ... OK
+Configuring File-chdir-0.1010 ... OK
+Building File-chdir-0.1010 ... OK
+Successfully installed File-chdir-0.1010
+Building Git-Wrapper-0.047 ... OK
+Successfully installed Git-Wrapper-0.047
+--> Working on Dist::Zilla::Role::GitConfig
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/B/BB/BBYRD/Dist-Zilla-Plugin-Config-Git-0.92.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-Config-Git-0.92 ... OK
+==> Found dependencies: Dist::Zilla::Role::Plugin
+--> Working on Version::Next
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/Version-Next-1.000.tar.gz ... OK
+Configuring Version-Next-1.000 ... OK
+Building Version-Next-1.000 ... OK
+Successfully installed Version-Next-1.000
+--> Working on Dist::Zilla::Plugin::ReadmeFromPod
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/F/FA/FAYLAND/Dist-Zilla-Plugin-ReadmeFromPod-0.34.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-ReadmeFromPod-0.34 ... OK
+==> Found dependencies: Dist::Zilla::File::InMemory, Dist::Zilla::Role::InstallTool, Dist::Zilla::Role::FilePruner, Pod::Readme
+--> Working on Pod::Readme
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RR/RRWO/Pod-Readme-v1.1.2.tar.gz ... OK
+Configuring Pod-Readme-1.001002 ... OK
+==> Found dependencies: CPAN::Changes, File::Slurp, MooX::HandlesVia
+--> Working on CPAN::Changes
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/H/HA/HAARG/CPAN-Changes-0.400002.tar.gz ... OK
+Configuring CPAN-Changes-0.400002 ... OK
+==> Found dependencies: version
+--> Working on version
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JP/JPEACOCK/version-0.9917.tar.gz ... OK
+Configuring version-0.9917 ... OK
+Building version-0.9917 ... OK
+Successfully installed version-0.9917 (upgraded from 0.9902)
+Building CPAN-Changes-0.400002 ... OK
+Successfully installed CPAN-Changes-0.400002
+--> Working on File::Slurp
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/U/UR/URI/File-Slurp-9999.19.tar.gz ... OK
+Configuring File-Slurp-9999.19 ... OK
+Building File-Slurp-9999.19 ... OK
+Successfully installed File-Slurp-9999.19
+--> Working on MooX::HandlesVia
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MA/MATTP/MooX-HandlesVia-0.001008.tar.gz ... OK
+Configuring MooX-HandlesVia-0.001008 ... OK
+==> Found dependencies: Data::Perl
+--> Working on Data::Perl
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MA/MATTP/Data-Perl-0.002009.tar.gz ... OK
+Configuring Data-Perl-0.002009 ... OK
+Building Data-Perl-0.002009 ... OK
+Successfully installed Data-Perl-0.002009
+Building MooX-HandlesVia-0.001008 ... OK
+Successfully installed MooX-HandlesVia-0.001008
+Building Pod-Readme-1.001002 ... OK
+Successfully installed Pod-Readme-1.001002
+--> Working on Dist::Zilla::Role::PluginBundle::Config::Slicer
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RW/RWSTAUNER/Dist-Zilla-Config-Slicer-0.201.tar.gz ... OK
+Configuring Dist-Zilla-Config-Slicer-0.201 ... OK
+==> Found dependencies: Config::MVP::Slicer, Dist::Zilla::PluginBundle::Filter, Dist::Zilla::Util
+--> Working on Config::MVP::Slicer
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RW/RWSTAUNER/Config-MVP-Slicer-0.302.tar.gz ... OK
+Configuring Config-MVP-Slicer-0.302 ... OK
+Building Config-MVP-Slicer-0.302 ... OK
+Successfully installed Config-MVP-Slicer-0.302
+--> Working on Module::CPANfile
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MIYAGAWA/Module-CPANfile-1.1002.tar.gz ... OK
+Configuring Module-CPANfile-1.1002 ... OK
+Building Module-CPANfile-1.1002 ... OK
+Successfully installed Module-CPANfile-1.1002
+--> Working on Dist::Zilla::Plugin::ReadmeAnyFromPod
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RT/RTHOMPSON/Dist-Zilla-Plugin-ReadmeAnyFromPod-0.161170.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-ReadmeAnyFromPod-0.161170 ... OK
+==> Found dependencies: Dist::Zilla::Role::FilePruner, Dist::Zilla::Role::FileWatcher, Dist::Zilla::File::InMemory, Dist::Zilla::Role::PPI, Dist::Zilla::Role::AfterBuild, Dist::Zilla::Role::AfterRelease, Dist::Zilla::Role::FileMunger, Dist::Zilla::Role::FileGatherer, Pod::Markdown
+--> Working on Dist::Zilla::Role::FileWatcher
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/Dist-Zilla-Role-FileWatcher-0.006.tar.gz ... OK
+Configuring Dist-Zilla-Role-FileWatcher-0.006 ... OK
+==> Found dependencies: Dist::Zilla, Safe::Isa
+--> Working on Safe::Isa
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/Safe-Isa-1.000005.tar.gz ... OK
+Configuring Safe-Isa-1.000005 ... OK
+Building Safe-Isa-1.000005 ... OK
+Successfully installed Safe-Isa-1.000005
+--> Working on Pod::Markdown
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RW/RWSTAUNER/Pod-Markdown-3.005.tar.gz ... OK
+Configuring Pod-Markdown-3.005 ... OK
+Building Pod-Markdown-3.005 ... OK
+Successfully installed Pod-Markdown-3.005
+--> Working on Dist::Zilla::Plugin::Prereqs::FromCPANfile
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MIYAGAWA/Dist-Zilla-Plugin-Prereqs-FromCPANfile-0.08.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-Prereqs-FromCPANfile-0.08 ... OK
+==> Found dependencies: Dist::Zilla
+--> Working on Dist::Zilla::Plugin::ReversionOnRelease
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MIYAGAWA/Dist-Zilla-Plugin-ReversionOnRelease-0.06.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-ReversionOnRelease-0.06 ... OK
+==> Found dependencies: Dist::Zilla
+--> Working on Dist::Zilla::Plugin::Git::Contributors
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/Dist-Zilla-Plugin-Git-Contributors-0.029.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-Git-Contributors-0.029 ... OK
+==> Found dependencies: List::UtilsBy, Dist::Zilla, Dist::Zilla::Role::MetaProvider, Dist::Zilla::Role::PrereqSource
+--> Working on List::UtilsBy
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/P/PE/PEVANS/List-UtilsBy-0.10.tar.gz ... OK
+Configuring List-UtilsBy-0.10 ... OK
+Building List-UtilsBy-0.10 ... OK
+Successfully installed List-UtilsBy-0.10
+--> Working on Dist::Zilla::Plugin::LicenseFromModule
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MIYAGAWA/Dist-Zilla-Plugin-LicenseFromModule-0.05.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-LicenseFromModule-0.05 ... OK
+==> Found dependencies: Dist::Zilla
+--> Working on Dist::Zilla::Plugin::GithubMeta
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/B/BI/BINGOS/Dist-Zilla-Plugin-GithubMeta-0.54.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-GithubMeta-0.54 ... OK
+==> Found dependencies: Dist::Zilla::Role::MetaProvider, Dist::Zilla, MooseX::Types::URI
+--> Working on MooseX::Types::URI
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/MooseX-Types-URI-0.08.tar.gz ... OK
+Configuring MooseX-Types-URI-0.08 ... OK
+==> Found dependencies: URI::FromHash, MooseX::Types::Path::Class
+--> Working on URI::FromHash
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DR/DROLSKY/URI-FromHash-0.05.tar.gz ... OK
+Configuring URI-FromHash-0.05 ... OK
+Building URI-FromHash-0.05 ... OK
+Successfully installed URI-FromHash-0.05
+--> Working on MooseX::Types::Path::Class
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/MooseX-Types-Path-Class-0.09.tar.gz ... OK
+Configuring MooseX-Types-Path-Class-0.09 ... OK
+Building MooseX-Types-Path-Class-0.09 ... OK
+Successfully installed MooseX-Types-Path-Class-0.09
+Building MooseX-Types-URI-0.08 ... OK
+Successfully installed MooseX-Types-URI-0.08
+--> Working on Dist::Zilla::Plugin::ModuleBuildTiny
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/L/LE/LEONT/Dist-Zilla-Plugin-ModuleBuildTiny-0.015.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-ModuleBuildTiny-0.015 ... OK
+==> Found dependencies: Dist::Zilla::Role::PrereqSource, Dist::Zilla::Role::MetaProvider, Dist::Zilla::Role::BuildPL, Dist::Zilla::Role::FileGatherer, Dist::Zilla::File::InMemory, Dist::Zilla, Dist::Zilla::Role::TextTemplate
+--> Working on Dist::Zilla::Plugin::NameFromDirectory
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MIYAGAWA/Dist-Zilla-Plugin-NameFromDirectory-0.04.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-NameFromDirectory-0.04 ... OK
+==> Found dependencies: Dist::Zilla
+--> Working on Dist::Zilla::Role::PluginBundle::PluginRemover
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RW/RWSTAUNER/Dist-Zilla-Role-PluginBundle-PluginRemover-0.103.tar.gz ... OK
+Configuring Dist-Zilla-Role-PluginBundle-PluginRemover-0.103 ... OK
+==> Found dependencies: Dist::Zilla::Util
+--> Working on Dist::Zilla::Plugin::Test::Compile
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/E/ET/ETHER/Dist-Zilla-Plugin-Test-Compile-2.054.tar.gz ... OK
+Configuring Dist-Zilla-Plugin-Test-Compile-2.054 ... OK
+==> Found dependencies: Dist::Zilla::Role::TextTemplate, Dist::Zilla, Dist::Zilla::File::InMemory, Dist::Zilla::Role::FileFinderUser, Dist::Zilla::Dist::Builder, Dist::Zilla::Role::FileGatherer, Dist::Zilla::Role::FileMunger, Dist::Zilla::Role::PrereqSource
+--> Working on Pod::POM::Web
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAMI/Pod-POM-Web-1.20.tar.gz ... OK
+Configuring Pod-POM-Web-1.20 ... OK
+==> Found dependencies: Pod::POM::View::HTML, Alien::GvaScript, MIME::Types, Pod::POM
+--> Working on Pod::POM::View::HTML
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/N/NE/NEILB/Pod-POM-2.01.tar.gz ... OK
+Configuring Pod-POM-2.01 ... OK
+Building Pod-POM-2.01 ... OK
+Successfully installed Pod-POM-2.01
+--> Working on Alien::GvaScript
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAMI/Alien-GvaScript-1.44.tar.gz ... OK
+Configuring Alien-GvaScript-1.44 ... OK
+Building Alien-GvaScript-1.44 ... OK
+Successfully installed Alien-GvaScript-1.44
+--> Working on MIME::Types
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MA/MARKOV/MIME-Types-2.13.tar.gz ... OK
+Configuring MIME-Types-2.13 ... OK
+Building MIME-Types-2.13 ... OK
+Successfully installed MIME-Types-2.13
+Building Pod-POM-Web-1.20 ... OK
+Successfully installed Pod-POM-Web-1.20
+--> Working on Search::Indexer
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/P/PJ/PJDEVOPS/Search-Indexer-0.78.tar.gz ... OK
+Configuring Search-Indexer-0.78 ... OK
+==> Found dependencies: BerkeleyDB, Search::QueryParser
+--> Working on BerkeleyDB
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/P/PM/PMQS/BerkeleyDB-0.55.tar.gz ... OK
+Configuring BerkeleyDB-0.55 ... OK
+Building BerkeleyDB-0.55 ... FAIL
+--> Working on Search::QueryParser
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAMI/Search-QueryParser-0.94.tar.gz ... OK
+Configuring Search-QueryParser-0.94 ... OK
+Building Search-QueryParser-0.94 ... OK
+Successfully installed Search-QueryParser-0.94
+82 distributions installed
+--> Working on Parallel::ForkManager
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/Y/YA/YANICK/Parallel-ForkManager-1.19.tar.gz ... OK
+Configuring Parallel-ForkManager-1.19 ... OK
+Building Parallel-ForkManager-1.19 ... OK
+Successfully installed Parallel-ForkManager-1.19
+--> Working on Proc::Background
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/B/BZ/BZAJAC/Proc-Background-1.10.tar.gz ... OK
+Configuring Proc-Background-1.10 ... OK
+Building Proc-Background-1.10 ... OK
+Successfully installed Proc-Background-1.10
+--> Working on Devel::CheckLib
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MA/MATTN/Devel-CheckLib-1.07.tar.gz ... OK
+Configuring Devel-CheckLib-1.07 ... OK
+==> Found dependencies: IO::CaptureOutput
+--> Working on IO::CaptureOutput
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/IO-CaptureOutput-1.1104.tar.gz ... OK
+Configuring IO-CaptureOutput-1.1104 ... OK
+Building IO-CaptureOutput-1.1104 ... OK
+Successfully installed IO-CaptureOutput-1.1104
+Building Devel-CheckLib-1.07 ... OK
+Successfully installed Devel-CheckLib-1.07
+--> Working on Import::Into
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/H/HA/HAARG/Import-Into-1.002005.tar.gz ... OK
+Configuring Import-Into-1.002005 ... OK
+Building Import-Into-1.002005 ... OK
+Successfully installed Import-Into-1.002005
+--> Working on PPI::XS
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/PPI-XS-0.902.tar.gz ... OK
+Configuring PPI-XS-0.902 ... OK
+Building PPI-XS-0.902 ... OK
+Successfully installed PPI-XS-0.902
+6 distributions installed
+--> Working on Glib
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/X/XA/XAOC/Glib-1.323.tar.gz ... OK
+==> Found dependencies: ExtUtils::PkgConfig
+--> Working on ExtUtils::PkgConfig
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/X/XA/XAOC/ExtUtils-PkgConfig-1.15.tar.gz ... OK
+Configuring ExtUtils-PkgConfig-1.15 ... OK
+Building ExtUtils-PkgConfig-1.15 ... OK
+Successfully installed ExtUtils-PkgConfig-1.15
+Configuring Glib-1.323 ... N/A
+--> Working on Cairo
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/X/XA/XAOC/Cairo-1.106.tar.gz ... OK
+Configuring Cairo-1.106 ... N/A
+--> Working on Cairo::GObject
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/X/XA/XAOC/Cairo-GObject-1.004.tar.gz ... OK
+==> Found dependencies: Glib, Cairo
+--> Working on Glib::Object::Introspection
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/X/XA/XAOC/Glib-Object-Introspection-0.040.tar.gz ... OK
+==> Found dependencies: Glib
+--> Working on Gtk3
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/X/XA/XAOC/Gtk3-0.029.tar.gz ... OK
+Configuring Gtk3-0.029 ... OK
+==> Found dependencies: Glib::Object::Introspection, Cairo::GObject
+1 distribution installed
+--> Working on DBIx::Class::Helpers
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/F/FR/FREW/DBIx-Class-Helpers-2.033001.tar.gz ... OK
+Configuring DBIx-Class-Helpers-2.033001 ... OK
+==> Found dependencies: String::CamelCase, Text::Brew, DBIx::Introspector, DBIx::Class, Lingua::EN::Inflect, DBIx::Class::Candy
+--> Working on String::CamelCase
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/H/HI/HIO/String-CamelCase-0.02.tar.gz ... OK
+Configuring String-CamelCase-0.02 ... OK
+Building String-CamelCase-0.02 ... OK
+Successfully installed String-CamelCase-0.02
+--> Working on Text::Brew
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/K/KC/KCIVEY/Text-Brew-0.02.tar.gz ... OK
+Configuring Text-Brew-0.02 ... OK
+Building Text-Brew-0.02 ... OK
+Successfully installed Text-Brew-0.02
+--> Working on DBIx::Introspector
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/F/FR/FREW/DBIx-Introspector-0.001005.tar.gz ... OK
+Configuring DBIx-Introspector-0.001005 ... OK
+Building DBIx-Introspector-0.001005 ... OK
+Successfully installed DBIx-Introspector-0.001005
+--> Working on DBIx::Class
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RI/RIBASUSHI/DBIx-Class-0.082840.tar.gz ... OK
+Configuring DBIx-Class-0.082840 ... OK
+==> Found dependencies: Context::Preserve, Class::C3::Componentised, Scope::Guard, Data::Dumper::Concise, Hash::Merge, Class::Accessor::Grouped, SQL::Abstract, Data::Page, Module::Find
+--> Working on Context::Preserve
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JR/JROCKWAY/Context-Preserve-0.01.tar.gz ... OK
+Configuring Context-Preserve-0.01 ... OK
+Building Context-Preserve-0.01 ... OK
+Successfully installed Context-Preserve-0.01
+--> Working on Class::C3::Componentised
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/F/FR/FREW/Class-C3-Componentised-1.001000.tar.gz ... OK
+Configuring Class-C3-Componentised-1.001000 ... OK
+==> Found dependencies: Class::C3
+--> Working on Class::C3
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/H/HA/HAARG/Class-C3-0.32.tar.gz ... OK
+Configuring Class-C3-0.32 ... OK
+==> Found dependencies: Algorithm::C3
+--> Working on Algorithm::C3
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/H/HA/HAARG/Algorithm-C3-0.10.tar.gz ... OK
+Configuring Algorithm-C3-0.10 ... OK
+Building Algorithm-C3-0.10 ... OK
+Successfully installed Algorithm-C3-0.10
+Building Class-C3-0.32 ... OK
+Successfully installed Class-C3-0.32
+Building Class-C3-Componentised-1.001000 ... OK
+Successfully installed Class-C3-Componentised-1.001000
+--> Working on Scope::Guard
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/C/CH/CHOCOLATE/Scope-Guard-0.21.tar.gz ... OK
+Configuring Scope-Guard-0.21 ... OK
+Building Scope-Guard-0.21 ... OK
+Successfully installed Scope-Guard-0.21
+--> Working on Data::Dumper::Concise
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/F/FR/FREW/Data-Dumper-Concise-2.022.tar.gz ... OK
+Configuring Data-Dumper-Concise-2.022 ... OK
+Building Data-Dumper-Concise-2.022 ... OK
+Successfully installed Data-Dumper-Concise-2.022
+--> Working on Hash::Merge
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RE/REHSACK/Hash-Merge-0.200.tar.gz ... OK
+Configuring Hash-Merge-0.200 ... OK
+Building Hash-Merge-0.200 ... OK
+Successfully installed Hash-Merge-0.200
+--> Working on Class::Accessor::Grouped
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RI/RIBASUSHI/Class-Accessor-Grouped-0.10012.tar.gz ... OK
+Configuring Class-Accessor-Grouped-0.10012 ... OK
+==> Found dependencies: Class::XSAccessor
+--> Working on Class::XSAccessor
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/S/SM/SMUELLER/Class-XSAccessor-1.19.tar.gz ... OK
+Configuring Class-XSAccessor-1.19 ... OK
+Building Class-XSAccessor-1.19 ... OK
+Successfully installed Class-XSAccessor-1.19
+Building Class-Accessor-Grouped-0.10012 ... OK
+Successfully installed Class-Accessor-Grouped-0.10012
+--> Working on SQL::Abstract
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RI/RIBASUSHI/SQL-Abstract-1.81.tar.gz ... OK
+Configuring SQL-Abstract-1.81 ... OK
+Building SQL-Abstract-1.81 ... OK
+Successfully installed SQL-Abstract-1.81
+--> Working on Data::Page
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/L/LB/LBROCARD/Data-Page-2.02.tar.gz ... OK
+Configuring Data-Page-2.02 ... OK
+==> Found dependencies: Class::Accessor::Chained::Fast
+--> Working on Class::Accessor::Chained::Fast
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RC/RCLAMP/Class-Accessor-Chained-0.01.tar.gz ... OK
+Configuring Class-Accessor-Chained-0.01 ... OK
+==> Found dependencies: Class::Accessor
+--> Working on Class::Accessor
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/K/KA/KASEI/Class-Accessor-0.34.tar.gz ... OK
+Configuring Class-Accessor-0.34 ... OK
+Building Class-Accessor-0.34 ... OK
+Successfully installed Class-Accessor-0.34
+Building Class-Accessor-Chained-0.01 ... OK
+Successfully installed Class-Accessor-Chained-0.01
+Building Data-Page-2.02 ... OK
+Successfully installed Data-Page-2.02
+--> Working on Module::Find
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/C/CR/CRENZ/Module-Find-0.13.tar.gz ... OK
+Configuring Module-Find-0.13 ... OK
+Building Module-Find-0.13 ... OK
+Successfully installed Module-Find-0.13
+Building DBIx-Class-0.082840 ... OK
+Successfully installed DBIx-Class-0.082840
+--> Working on Lingua::EN::Inflect
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DC/DCONWAY/Lingua-EN-Inflect-1.900.tar.gz ... OK
+Configuring Lingua-EN-Inflect-1.900 ... OK
+Building Lingua-EN-Inflect-1.900 ... OK
+Successfully installed Lingua-EN-Inflect-1.900
+--> Working on DBIx::Class::Candy
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/F/FR/FREW/DBIx-Class-Candy-0.005002.tar.gz ... OK
+Configuring DBIx-Class-Candy-0.005002 ... OK
+Building DBIx-Class-Candy-0.005002 ... OK
+Successfully installed DBIx-Class-Candy-0.005002
+Building DBIx-Class-Helpers-2.033001 ... OK
+Successfully installed DBIx-Class-Helpers-2.033001
+--> Working on DBIx::XHTML_Table
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JE/JEFFA/DBIx-XHTML_Table-1.48.tar.gz ... OK
+Configuring DBIx-XHTML_Table-1.48 ... OK
+Building DBIx-XHTML_Table-1.48 ... OK
+Successfully installed DBIx-XHTML_Table-1.48
+--> Working on DBM::Deep
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RK/RKINYON/DBM-Deep-2.0013.tar.gz ... OK
+Configuring DBM-Deep-2.0013 ... OK
+Building DBM-Deep-2.0013 ... OK
+Successfully installed DBM-Deep-2.0013
+--> Working on MongoDB
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MO/MONGODB/MongoDB-v1.4.5.tar.gz ... OK
+==> Found dependencies: Config::AutoConf
+--> Working on Config::AutoConf
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RE/REHSACK/Config-AutoConf-0.313.tar.gz ... OK
+Configuring Config-AutoConf-0.313 ... OK
+Building Config-AutoConf-0.313 ... OK
+Successfully installed Config-AutoConf-0.313
+Configuring MongoDB-v1.4.5 ... OK
+==> Found dependencies: Type::Tiny::XS, Authen::SCRAM::Client
+--> Working on Type::Tiny::XS
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/T/TO/TOBYINK/Type-Tiny-XS-0.012.tar.gz ... OK
+Configuring Type-Tiny-XS-0.012 ... OK
+Building Type-Tiny-XS-0.012 ... OK
+Successfully installed Type-Tiny-XS-0.012
+--> Working on Authen::SCRAM::Client
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/Authen-SCRAM-0.005.tar.gz ... OK
+Configuring Authen-SCRAM-0.005 ... OK
+==> Found dependencies: Authen::SASL::SASLprep, Crypt::URandom, PBKDF2::Tiny
+--> Working on Authen::SASL::SASLprep
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/C/CF/CFAERBER/Authen-SASL-SASLprep-1.100.tar.gz ... OK
+Configuring Authen-SASL-SASLprep-1.100 ... OK
+==> Found dependencies: Unicode::Stringprep
+--> Working on Unicode::Stringprep
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/C/CF/CFAERBER/Unicode-Stringprep-1.105.tar.gz ... OK
+Configuring Unicode-Stringprep-1.105 ... OK
+Building Unicode-Stringprep-1.105 ... OK
+Successfully installed Unicode-Stringprep-1.105
+Building Authen-SASL-SASLprep-1.100 ... OK
+Successfully installed Authen-SASL-SASLprep-1.100
+--> Working on Crypt::URandom
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DD/DDICK/Crypt-URandom-0.36.tar.gz ... OK
+Configuring Crypt-URandom-0.36 ... OK
+Building Crypt-URandom-0.36 ... OK
+Successfully installed Crypt-URandom-0.36
+--> Working on PBKDF2::Tiny
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DA/DAGOLDEN/PBKDF2-Tiny-0.005.tar.gz ... OK
+Configuring PBKDF2-Tiny-0.005 ... OK
+Building PBKDF2-Tiny-0.005 ... OK
+Successfully installed PBKDF2-Tiny-0.005
+Building Authen-SCRAM-0.005 ... OK
+Successfully installed Authen-SCRAM-0.005
+Building MongoDB-v1.4.5 ... OK
+Successfully installed MongoDB-v1.4.5
+--> Working on Mojolicious
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/S/SR/SRI/Mojolicious-7.08.tar.gz ... OK
+Configuring Mojolicious-7.08 ... OK
+==> Found dependencies: IO::Socket::IP
+--> Working on IO::Socket::IP
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/P/PE/PEVANS/IO-Socket-IP-0.38.tar.gz ... OK
+Configuring IO-Socket-IP-0.38 ... OK
+Building IO-Socket-IP-0.38 ... OK
+Successfully installed IO-Socket-IP-0.38
+Building Mojolicious-7.08 ... OK
+Successfully installed Mojolicious-7.08
+--> Working on IO::All
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/I/IN/INGY/IO-All-0.86.tar.gz ... OK
+Configuring IO-All-0.86 ... OK
+Building IO-All-0.86 ... OK
+Successfully installed IO-All-0.86
+--> Working on IO::All::LWP
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/I/IT/ITUB/IO-All-LWP-0.14.tar.gz ... OK
+Configuring IO-All-LWP-0.14 ... OK
+Building IO-All-LWP-0.14 ... OK
+Successfully installed IO-All-LWP-0.14
+35 distributions installed
+--> Working on Roman
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/C/CH/CHORNY/Roman-1.24.tar.gz ... OK
+Configuring Roman-1.24 ... OK
+Building Roman-1.24 ... OK
+Successfully installed Roman-1.24
+--> Working on Text::Table
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/S/SH/SHLOMIF/Text-Table-1.131.tar.gz ... OK
+Configuring Text-Table-1.131 ... OK
+==> Found dependencies: Text::Aligner
+--> Working on Text::Aligner
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/S/SH/SHLOMIF/Text-Aligner-0.13.tar.gz ... OK
+Configuring Text-Aligner-0.13 ... OK
+Building Text-Aligner-0.13 ... OK
+Successfully installed Text-Aligner-0.13
+Building Text-Table-1.131 ... OK
+Successfully installed Text-Table-1.131
+Time::Duration is up to date. (1.20)
+--> Working on RTF::Writer
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/S/SB/SBURKE/RTF-Writer-1.11.tar.gz ... OK
+Configuring RTF-Writer-1.11 ... OK
+==> Found dependencies: Image::Size
+--> Working on Image::Size
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/R/RJ/RJRAY/Image-Size-3.300.tar.gz ... OK
+Configuring Image-Size-3.300 ... OK
+Building Image-Size-3.300 ... OK
+Successfully installed Image-Size-3.300
+Building RTF-Writer-1.11 ... OK
+Successfully installed RTF-Writer-1.11
+--> Working on Chart::Math::Axis
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/A/AD/ADAMK/Chart-Math-Axis-1.06.tar.gz ... OK
+Configuring Chart-Math-Axis-1.06 ... OK
+Building Chart-Math-Axis-1.06 ... OK
+Successfully installed Chart-Math-Axis-1.06
+6 distributions installed
+--> Working on Spreadsheet::XLSX
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MIKEB/Spreadsheet-XLSX-0.15.tar.gz ... OK
+Configuring Spreadsheet-XLSX-0.15 ... OK
+==> Found dependencies: Spreadsheet::ParseExcel, Archive::Zip
+--> Working on Spreadsheet::ParseExcel
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DO/DOUGW/Spreadsheet-ParseExcel-0.65.tar.gz ... OK
+Configuring Spreadsheet-ParseExcel-0.65 ... OK
+==> Found dependencies: OLE::Storage_Lite, Crypt::RC4, Digest::Perl::MD5
+--> Working on OLE::Storage_Lite
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JM/JMCNAMARA/OLE-Storage_Lite-0.19.tar.gz ... OK
+Configuring OLE-Storage_Lite-0.19 ... OK
+Building OLE-Storage_Lite-0.19 ... OK
+Successfully installed OLE-Storage_Lite-0.19
+--> Working on Crypt::RC4
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/S/SI/SIFUKURT/Crypt-RC4-2.02.tar.gz ... OK
+Configuring Crypt-RC4-2.02 ... OK
+Building Crypt-RC4-2.02 ... OK
+Successfully installed Crypt-RC4-2.02
+--> Working on Digest::Perl::MD5
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/D/DE/DELTA/Digest-Perl-MD5-1.9.tar.gz ... OK
+Configuring Digest-Perl-MD5-1.9 ... OK
+Building Digest-Perl-MD5-1.9 ... OK
+Successfully installed Digest-Perl-MD5-1.9
+Building Spreadsheet-ParseExcel-0.65 ... OK
+Successfully installed Spreadsheet-ParseExcel-0.65
+--> Working on Archive::Zip
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/P/PH/PHRED/Archive-Zip-1.59.tar.gz ... OK
+Configuring Archive-Zip-1.59 ... OK
+Building Archive-Zip-1.59 ... OK
+Successfully installed Archive-Zip-1.59
+Building Spreadsheet-XLSX-0.15 ... OK
+Successfully installed Spreadsheet-XLSX-0.15
+--> Working on Excel::Writer::XLSX
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JM/JMCNAMARA/Excel-Writer-XLSX-0.95.tar.gz ... OK
+Configuring Excel-Writer-XLSX-0.95 ... OK
+Building Excel-Writer-XLSX-0.95 ... OK
+Successfully installed Excel-Writer-XLSX-0.95
+--> Working on Spreadsheet::WriteExcel
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JM/JMCNAMARA/Spreadsheet-WriteExcel-2.40.tar.gz ... OK
+Configuring Spreadsheet-WriteExcel-2.40 ... OK
+==> Found dependencies: Parse::RecDescent
+--> Working on Parse::RecDescent
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JT/JTBRAUN/Parse-RecDescent-1.967013.tar.gz ... OK
+Configuring Parse-RecDescent-1.967013 ... OK
+Building Parse-RecDescent-1.967013 ... OK
+Successfully installed Parse-RecDescent-1.967013
+Building Spreadsheet-WriteExcel-2.40 ... OK
+Successfully installed Spreadsheet-WriteExcel-2.40
+9 distributions installed
+--> Working on Math::Random::MT::Auto
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JD/JDHEDDEN/Math-Random-MT-Auto-6.22.tar.gz ... OK
+Configuring Math-Random-MT-Auto-6.22 ... OK
+==> Found dependencies: Object::InsideOut
+--> Working on Object::InsideOut
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/J/JD/JDHEDDEN/Object-InsideOut-4.02.tar.gz ... OK
+Configuring Object-InsideOut-4.02 ... OK
+Building Object-InsideOut-4.02 ... OK
+Successfully installed Object-InsideOut-4.02
+Building Math-Random-MT-Auto-6.22 ... OK
+Successfully installed Math-Random-MT-Auto-6.22
+--> Working on PDL
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/C/CH/CHM/PDL-2.017.tar.gz ... OK
+Configuring PDL-2.017 ... OK
+==> Found dependencies: File::Map, Convert::UU, Inline::C, Module::Compile, Astro::FITS::Header, Inline
+--> Working on File::Map
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/L/LE/LEONT/File-Map-0.64.tar.gz ... OK
+Configuring File-Map-0.64 ... OK
+==> Found dependencies: PerlIO::Layers
+--> Working on PerlIO::Layers
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/L/LE/LEONT/PerlIO-Layers-0.011.tar.gz ... OK
+Configuring PerlIO-Layers-0.011 ... OK
+Building PerlIO-Layers-0.011 ... OK
+Successfully installed PerlIO-Layers-0.011
+Building File-Map-0.64 ... OK
+Successfully installed File-Map-0.64
+--> Working on Convert::UU
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/A/AN/ANDK/Convert-UU-0.5201.tar.gz ... OK
+Configuring Convert-UU-0.5201 ... OK
+Building Convert-UU-0.5201 ... OK
+Successfully installed Convert-UU-0.5201
+--> Working on Inline::C
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/I/IN/INGY/Inline-C-0.76.tar.gz ... OK
+Configuring Inline-C-0.76 ... OK
+==> Found dependencies: Pegex, Inline, ExtUtils::MakeMaker
+--> Working on Pegex
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/I/IN/INGY/Pegex-0.61.tar.gz ... OK
+Configuring Pegex-0.61 ... OK
+Building Pegex-0.61 ... OK
+Successfully installed Pegex-0.61
+--> Working on Inline
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/I/IN/INGY/Inline-0.80.tar.gz ... OK
+Configuring Inline-0.80 ... OK
+Building Inline-0.80 ... OK
+Successfully installed Inline-0.80
+--> Working on ExtUtils::MakeMaker
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/B/BI/BINGOS/ExtUtils-MakeMaker-7.24.tar.gz ... OK
+Configuring ExtUtils-MakeMaker-7.24 ... OK
+Building ExtUtils-MakeMaker-7.24 ... OK
+Successfully installed ExtUtils-MakeMaker-7.24 (upgraded from 6.66)
+Building Inline-C-0.76 ... OK
+Successfully installed Inline-C-0.76
+--> Working on Module::Compile
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/I/IN/INGY/Module-Compile-0.35.tar.gz ... OK
+Configuring Module-Compile-0.35 ... OK
+==> Found dependencies: Digest::SHA1
+--> Working on Digest::SHA1
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/G/GA/GAAS/Digest-SHA1-2.13.tar.gz ... OK
+Configuring Digest-SHA1-2.13 ... OK
+Building Digest-SHA1-2.13 ... OK
+Successfully installed Digest-SHA1-2.13
+Building Module-Compile-0.35 ... OK
+Successfully installed Module-Compile-0.35
+--> Working on Astro::FITS::Header
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/T/TJ/TJENNESS/Astro-FITS-Header-3.07.tar.gz ... OK
+Configuring Astro-FITS-Header-3.07 ... OK
+Building Astro-FITS-Header-3.07 ... OK
+Successfully installed Astro-FITS-Header-3.07
+Building PDL-2.017 ... OK
+Successfully installed PDL-2.017
+--> Working on Statistics::Lite
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/B/BR/BRIANL/Statistics-Lite-3.62.tar.gz ... OK
+Configuring Statistics-Lite-3.62 ... OK
+Building Statistics-Lite-3.62 ... OK
+Successfully installed Statistics-Lite-3.62
+--> Working on Statistics::TTest
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/Y/YU/YUNFANG/Statistics-TTest-1.1.0.tar.gz ... OK
+Configuring Statistics-TTest-1.1.0 ... OK
+==> Found dependencies: Statistics::Distributions
+--> Working on Statistics::Distributions
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/M/MI/MIKEK/Statistics-Distributions-1.02.tar.gz ... OK
+Configuring Statistics-Distributions-1.02 ... OK
+Building Statistics-Distributions-1.02 ... OK
+Successfully installed Statistics-Distributions-1.02
+Building Statistics-TTest-1.1 ... OK
+Successfully installed Statistics-TTest-1.1
+--> Working on Set::Light
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/T/TE/TELS/set/Set-Light-0.04.tar.gz ... OK
+Configuring Set-Light-0.03 ... OK
+==> Found dependencies: Array::RefElem
+--> Working on Array::RefElem
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/G/GA/GAAS/Array-RefElem-1.00.tar.gz ... OK
+Configuring Array-RefElem-1.00 ... OK
+Building Array-RefElem-1.00 ... OK
+Successfully installed Array-RefElem-1.00
+Building Set-Light-0.03 ... OK
+Successfully installed Set-Light-0.03
+--> Working on Math::GSL
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/L/LE/LETO/Math-GSL-0.39.tar.gz ... OK
+==> Found dependencies: PkgConfig
+--> Working on PkgConfig
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/P/PL/PLICEASE/PkgConfig-0.12026.tar.gz ... OK
+Configuring PkgConfig-0.12026 ... OK
+Building PkgConfig-0.12026 ... OK
+Successfully installed PkgConfig-0.12026
+Configuring Math-GSL-0.39 ... OK
+Building Math-GSL-0.39 ... OK
+Successfully installed Math-GSL-0.39
+--> Working on Statistics::R
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/F/FA/FANGLY/Statistics-R-0.34.tar.gz ... OK
+Configuring Statistics-R-0.34 ... OK
+==> Found dependencies: IPC::Run
+--> Working on IPC::Run
+Fetching http://mirrors.ustc.edu.cn/CPAN/authors/id/T/TO/TODDR/IPC-Run-0.94.tar.gz ... OK
+Configuring IPC-Run-0.94 ... OK
+Building IPC-Run-0.94 ... OK
+Successfully installed IPC-Run-0.94
+Building Statistics-R-0.34 ... OK
+Successfully installed Statistics-R-0.34
+22 distributions installed
+--> Working on AlignDB::DeltaG
+Fetching https://stratopan.com/wangq/ega/master/authors/id/W/WA/WANGQ/AlignDB-DeltaG-1.0.0.tar.gz ... OK
+Configuring AlignDB-DeltaG-1.0.0 ... OK
+Building AlignDB-DeltaG-1.0.0 ... OK
+Successfully installed AlignDB-DeltaG-1.0.0
+--> Working on AlignDB::GC
+Fetching https://stratopan.com/wangq/ega/master/authors/id/W/WA/WANGQ/AlignDB-GC-1.0.0.tar.gz ... OK
+Configuring AlignDB-GC-1.0.0 ... OK
+Building AlignDB-GC-1.0.0 ... OK
+Successfully installed AlignDB-GC-1.0.0
+--> Working on AlignDB::SQL
+Fetching https://stratopan.com/wangq/ega/master/authors/id/W/WA/WANGQ/AlignDB-SQL-1.0.0.tar.gz ... OK
+Configuring AlignDB-SQL-1.0.0 ... OK
+Building AlignDB-SQL-1.0.0 ... OK
+Successfully installed AlignDB-SQL-1.0.0
+--> Working on AlignDB::ToXLSX
+Fetching https://stratopan.com/wangq/ega/master/authors/id/W/WA/WANGQ/AlignDB-ToXLSX-1.1.5.tar.gz ... OK
+Configuring AlignDB-ToXLSX-1.1.5 ... OK
+Building AlignDB-ToXLSX-1.1.5 ... OK
+Successfully installed AlignDB-ToXLSX-1.1.5
+4 distributions installed

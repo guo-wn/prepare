@@ -1,0 +1,108 @@
+====> Linuxbrew environment  <====
+==> Clone latest linuxbrew
+==> Update .bashrc
+==> Add tap science
+==> Tapping homebrew/science
+Tapped 629 formulae (663 files, 1.9M)
+==> Tapping homebrew/versions
+Tapped 213 formulae (242 files, 1M)
+==> Tapping wang-q/tap
+Tapped 8 formulae (41 files, 142.0K)
+==> Install bioinfomatics softwares
+==> Installing clustal-w from homebrew/science
+==> Installing dependencies for homebrew/science/clustal-w: patchelf
+==> Installing homebrew/science/clustal-w dependency: patchelf
+==> Downloading https://linuxbrew.bintray.com/bottles/patchelf-0.9_1.x86_64_linux.bottle.tar.gz
+==> Pouring patchelf-0.9_1.x86_64_linux.bottle.tar.gz
+🍺  /home/gwn/.linuxbrew/Cellar/patchelf/0.9_1: 6 files, 1.2M
+==> Installing homebrew/science/clustal-w
+==> Downloading https://linuxbrew.bintray.com/bottles-science/clustal-w-2.1.x86_64_linux.bottle.1.tar.gz
+==> Pouring clustal-w-2.1.x86_64_linux.bottle.1.tar.gz
+🍺  /home/gwn/.linuxbrew/Cellar/clustal-w/2.1: 4 files, 581.6K
+==> Installing hmmer from homebrew/science
+==> Downloading https://linuxbrew.bintray.com/bottles-science/hmmer-3.1b2_1.x86_64_linux.bottle.tar.gz
+==> Pouring hmmer-3.1b2_1.x86_64_linux.bottle.tar.gz
+🍺  /home/gwn/.linuxbrew/Cellar/hmmer/3.1b2_1: 78 files, 17M
+==> Installing lastz from homebrew/science
+==> Downloading http://www.bx.psu.edu/miller_lab/dist/lastz-1.02.00.tar.gz
+==> Installing blast from homebrew/science
+==> Installing dependencies for homebrew/science/blast: jpeg, zlib, libpng, bzip2, pcre
+==> Installing homebrew/science/blast dependency: jpeg
+==> Downloading https://linuxbrew.bintray.com/bottles/jpeg-8d.x86_64_linux.bottle.2.tar.gz
+==> Pouring jpeg-8d.x86_64_linux.bottle.2.tar.gz
+🍺  /home/gwn/.linuxbrew/Cellar/jpeg/8d: 20 files, 768.5K
+==> Installing homebrew/science/blast dependency: zlib
+==> Downloading https://linuxbrew.bintray.com/bottles/zlib-1.2.8.x86_64_linux.bottle.1.tar.gz
+==> Pouring zlib-1.2.8.x86_64_linux.bottle.1.tar.gz
+🍺  /home/gwn/.linuxbrew/Cellar/zlib/1.2.8: 11 files, 398.6K
+==> Installing homebrew/science/blast dependency: libpng
+==> Downloading https://linuxbrew.bintray.com/bottles/libpng-1.6.25.x86_64_linux.bottle.tar.gz
+==> Pouring libpng-1.6.25.x86_64_linux.bottle.tar.gz
+🍺  /home/gwn/.linuxbrew/Cellar/libpng/1.6.25: 26 files, 1.3M
+==> Installing homebrew/science/blast dependency: bzip2
+==> Downloading https://linuxbrew.bintray.com/bottles/bzip2-1.0.6_1.x86_64_linux.bottle.1.tar.gz
+==> Pouring bzip2-1.0.6_1.x86_64_linux.bottle.1.tar.gz
+🍺  /home/gwn/.linuxbrew/Cellar/bzip2/1.0.6_1: 29 files, 1.5M
+==> Installing homebrew/science/blast dependency: pcre
+==> Downloading https://linuxbrew.bintray.com/bottles/pcre-8.39.x86_64_linux.bottle.tar.gz
+==> Pouring pcre-8.39.x86_64_linux.bottle.tar.gz
+🍺  /home/gwn/.linuxbrew/Cellar/pcre/8.39: 208 files, 5.3M
+==> Installing homebrew/science/blast
+==> Downloading ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/ncbi-blast-2.4.0+-src.tar.gz
+==> ./configure --prefix=/home/gwn/.linuxbrew/Cellar/blast/2.4.0 --libdir=/home/gwn/.linuxbrew/Cellar/blast/2.4.0/libexec --without-debug --with-mt --without-boost --without-mysql --without-freetype --without-gnutls --with-jpeg=/home/gwn/.linuxbrew/opt/jpeg --with-png=/home/gwn/.linuxbrew/opt/libpng --with-pcre=/home/gwn/.linuxbrew/opt/pcre --without-hdf5 --with-dll --without-static --without-static-exe
+==> make
+==> make install
+==> Caveats
+Using the option "--with-static" will create static binaries instead of
+dynamic. The NCBI Blast static installation is approximately 7 times larger
+than the dynamic.
+
+Static binaries should be used for speed if the executable requires fast
+startup time, such as if another program is frequently restarting the blast
+executables.
+
+==> Summary
+🍺  /home/gwn/.linuxbrew/Cellar/blast/2.4.0: 3,814 files, 95.5M, built in 13 minutes 31 seconds
+==> Installing rmblast from homebrew/science
+==> Downloading ftp://ftp.ncbi.nlm.nih.gov/blast/executables/rmblast/LATEST/ncbi-rmblastn-2.2.28-x64-linux.tar.gz
+🍺  /home/gwn/.linuxbrew/Cellar/rmblast/2.2.28_1: 7 files, 25.2M, built in 27 seconds
+==> Installing repeatmasker from homebrew/science
+==> Installing dependencies for homebrew/science/repeatmasker: trf
+==> Installing homebrew/science/repeatmasker dependency: trf
+==> Downloading https://linuxbrew.bintray.com/bottles-science/trf-4.07b.x86_64_linux.bottle.tar.gz
+==> Pouring trf-4.07b.x86_64_linux.bottle.tar.gz
+🍺  /home/gwn/.linuxbrew/Cellar/trf/4.07b: 2 files, 125.5K
+==> Installing homebrew/science/repeatmasker
+==> Downloading http://www.repeatmasker.org/RepeatMasker-open-4-0-5.tar.gz
+==> Install vcftools
+==> Installing vcftools from homebrew/science
+==> Tapping homebrew/dupes
+Tapped 38 formulae (105 files, 339.5K)
+==> Downloading https://linuxbrew.bintray.com/bottles-science/vcftools-0.1.13.x86_64_linux.bottle.tar.gz
+==> Pouring vcftools-0.1.13.x86_64_linux.bottle.tar.gz
+==> Caveats
+To use the Perl modules, make sure Vcf.pm, VcfStats.pm, and FaSlice.pm
+are included in your PERL5LIB environment variable:
+  export PERL5LIB=/home/gwn/.linuxbrew/lib/perl5/site_perl:${PERL5LIB}
+
+==> Summary
+🍺  /home/gwn/.linuxbrew/Cellar/vcftools/0.1.13: 30 files, 1.3M
+==> Install wang-q/tap
+==> Installing faops from wang-q/tap
+==> Downloading https://github.com/wang-q/faops/archive/0.2.1.tar.gz
+==> Downloading from https://codeload.github.com/wang-q/faops/tar.gz/0.2.1
+==> make
+🍺  /home/gwn/.linuxbrew/Cellar/faops/0.2.1: 4 files, 71.5K, built in 4 seconds
+==> Installing multiz from wang-q/tap
+==> Downloading https://github.com/wang-q/multiz/archive/v1.1.1.tar.gz
+==> Downloading from https://codeload.github.com/wang-q/multiz/tar.gz/v1.1.1
+==> make
+🍺  /home/gwn/.linuxbrew/Cellar/multiz/1.0: 4 files, 58.7K, built in 4 seconds
+==> Installing sparsemem from wang-q/tap
+==> Downloading https://github.com/wang-q/sparseMEM/archive/v1.0.1.tar.gz
+==> Downloading from https://codeload.github.com/wang-q/sparseMEM/tar.gz/v1.0.1
+==> make
+🍺  /home/gwn/.linuxbrew/Cellar/sparsemem/1.0.1: 5 files, 87.5K, built in 5 seconds
+==> Installing paml49 from wang-q/tap
+==> Downloading http://abacus.gene.ucl.ac.uk/software/paml4.9a.tgz
+==> Config repeatmasker
