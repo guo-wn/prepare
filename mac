@@ -1,0 +1,36 @@
+# 安装homebrew   官网 http://brew
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh
+
+# 卸载homebrew
+
+cd `brew --prefix`
+rm -rf Cellar
+brew prune
+rm `git ls-files`
+rm -r Library/Homebrew Library/Aliases Library/Formula Library/Contributions
+rm -rf .git
+rm -rf ~/Library/Caches/Homebrew1234567
+
+# 使用homebrew安装东西
+
+brew install <packageName>
+brew install wget
+
+# 卸载包
+brew uninstall <packageName>
+$ brew uninstall git
+
+# 查询可用包
+brew search <packageName>
+
+# 查看已安装包列表
+brew list
+
+# 查看任意包信息
+brew info <packageName>
+
+# 更新Homebrew
+brew update
+
+# 查看Homebrew版本
+brew -v
