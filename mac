@@ -34,3 +34,14 @@ brew update
 
 # 查看Homebrew版本
 brew -v
+
+# 安装bash-completion
+brew install bash-completion
+将[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion复制到.bash_profile的文件中.
+使用命令：open ~/.bash_profile来打开文件，然后将之前复制的语句存入其中保存。
+
+# 添加Git补全支持
+cd /usr/local/opt/bash-completion/etc/bash_completion.d
+curl -L -O http https://raw.github.com/git/git/master/contrib/completion/git-completion.bash
+brew unlink bash-completion
+brew link bash-completion
