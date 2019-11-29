@@ -1,5 +1,5 @@
 # 安装homebrew   官网 http://brew
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
 
 # 卸载homebrew
 
